@@ -1,5 +1,4 @@
-# sparseSVM
-Sparse SVM: linear SVM with L1-norm regularization
+# Sparse SVM: Linear SVM with L1-norm regularization
 Project for the exam of Signal Processing and Optimization for Big Data
 Master degree in computer engineering, curriculum Data Science
 Matteo Rinalduzzi - Università degli Studi di Perugia
@@ -10,3 +9,5 @@ This project aims to investigate 3 aspects:
           across data (framework of CONSENSUS OPTIMIZATION)
 - PART 3: distributed algorithm applied to a simple dataset of quasi linearly separable data in two dimensions
           and plot of the straight lines in the plane that separate the data (multiclass classification)
+          
+To have a look at a complete execution of the project go to: https://www.kaggle.com/matteorinalduzzi/sparse-svm-linear-svm-with-l1-norm.
